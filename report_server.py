@@ -487,7 +487,7 @@ body::after {
 </div>
 
 <div class="footer">
-  Built by <a href="https://linkedin.com/in/ahmedbakr0" target="_blank">Ahmed Bakr</a> at Break OpenClaw Hack Night — St Patrick's Day 2026
+  Built by <a href="https://www.linkedin.com/in/a7medbakrr/" target="_blank">Ahmed Bakr</a> at Break OpenClaw Hack Night — St Patrick's Day 2026
   <br>Powered by <a href="https://blaxel.ai" target="_blank">Blaxel</a> sandboxes
 </div>
 

@@ -1,7 +1,7 @@
 # ☠ Claw Breaker — Automated OpenClaw Security Scanner
 
 **Built live at Break OpenClaw Hack Night (St Patrick's Day 2026)**  
-**By [Ahmed Bakr](https://linkedin.com/in/ahmedbakr0) — Founder of [Awn AI](https://getawn.ai)**
+**By [Ahmed Bakr](https://www.linkedin.com/in/a7medbakrr/) — Founder of [Awn AI](https://getawn.ai)**
 
 ## What is this?
 
