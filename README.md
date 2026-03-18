@@ -1,5 +1,9 @@
 # ☠ Claw Breaker — Automated OpenClaw Security Scanner
 
+<p align="center">
+  <img src="pics/OpenClaw_Breaker.jpg" alt="OpenClaw Breaker Dashboard" width="100%">
+</p>
+
 **Built live at Break OpenClaw Hack Night (St Patrick's Day 2026)**  
 **By [Ahmed Bakr](https://www.linkedin.com/in/a7medbakrr/) — Founder of [Awn AI](https://getawn.ai)**
 
@@ -20,6 +24,12 @@ Claw Breaker is an automated pentesting agent that probes OpenClaw instances for
 | P7 | Log Secret Leakage | MEDIUM | CWE-532 | Secrets exposed in status/MOTD responses |
 
 All 7 probes are based on **real vulnerabilities** exploited during the Break OpenClaw CTF to achieve a perfect 4,950 point score (21/21 flags).
+
+<p align="center">
+  <img src="pics/OpenClaw_Hack_Night.jpg" alt="Break OpenClaw CTF Leaderboard" width="100%">
+  <br>
+  <em>3rd place on the leaderboard!</em>
+</p>
 
 ## Quick Start
 
