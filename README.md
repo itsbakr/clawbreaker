@@ -1,7 +1,7 @@
 # ☠ Claw Breaker — Automated OpenClaw Security Scanner
 
 <p align="center">
-  <img src="pics/OpenClaw_Breaker.jpg" alt="OpenClaw Breaker Dashboard" width="100%">
+  <img src="pics/OpenClaw_Breaker.png" alt="OpenClaw Breaker Dashboard" width="100%">
 </p>
 
 **Built live at Break OpenClaw Hack Night (St Patrick's Day 2026)**  
